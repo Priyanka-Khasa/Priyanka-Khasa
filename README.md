@@ -17,6 +17,8 @@
 
 <br>
 
+---
+
 ## 🛠️ Skills
 <p>
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white" />
@@ -36,6 +38,8 @@
 
 <br>
 
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-Khasa&show_icons=true&theme=tokyonight" alt="Priyanka's GitHub stats" />
@@ -43,17 +47,21 @@
 
 <br>
 
+---
+
 ## 🏆 Top Projects
 | Project | Tech Stack | Live Link | GitHub Repo |
 |:-------|:------------|:----------|:------------|
 | Wanderlust | MERN Stack | [View Live](https://wanderlust-by34.onrender.com/listings) | [Repo](https://github.com/Priyanka-Khasa/Wonderlust) |
 | AI Fitness Tracker | React + MediaPipe | [View Live](https://ai-fitness-tracker.netlify.app) | [Repo](https://github.com/Priyanka-Khasa/Fitness-app) |
-| Weather App | HTML, CSS, JS | _Coming Soon_ | [Repo](#) |
-| Spotify Clone | React.js | _Coming Soon_ | [Repo](#) |
-| Tic Tac Toe | HTML, CSS, JS | _Coming Soon_ | [Repo](#) |
-| Stone Paper Scissors | HTML, CSS, JS | _Coming Soon_ | [Repo](#) |
+| Weather Checker | HTML, CSS, JS | _Coming Soon_ | [Repo](https://github.com/Priyanka-Khasa/Weather-Checker) |
+| Spotify Clone | React.js | _Coming Soon_ | [Repo](https://github.com/Priyanka-Khasa/Spotify-clone1) |
+| Tic Tac Toe | HTML, CSS, JS | _Coming Soon_ | [Repo](https://github.com/Priyanka-Khasa/Tic-Tac-Toe) |
+| Stone Paper Scissors | HTML, CSS, JS | _Coming Soon_ | [Repo](https://github.com/Priyanka-Khasa/Small-Project-on-HTML-and-CSS) |
 
 <br>
+
+---
 
 ## 📫 Connect with me
 <p>
@@ -65,3 +73,10 @@
   </a>
 </p>
 
+<br>
+
+---
+
+<p align="center">
+  Made with ❤️ by Priyanka Khasa
+</p>
