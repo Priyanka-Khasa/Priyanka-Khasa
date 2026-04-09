@@ -130,7 +130,7 @@ I am a creative developer passionate about building **real-world software produc
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Cutting%20Edge-orange?style=flat-square)
 
-**Next-generation AI interface** enabling seamless, touchless interaction through gestures and voice.
+**Next-generation AI interface** enabling seamless, touchless interaction through gestures and voice through your camera; it will automate  your complete  screen.
 
 - **Real-time gesture recognition**
 - Voice command integration
