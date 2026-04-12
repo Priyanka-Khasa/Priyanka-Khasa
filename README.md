@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full Stack Developer &nbsp;·&nbsp; Android Developer &nbsp;·&nbsp; AI Systems Architect</strong><br>
-  <em>Transforming ideas into intelligent, scalable products</em>
+  <em>Transforming ideas into intelligent, scalable products and websites</em>
 </p>
 
 <p align="center">
