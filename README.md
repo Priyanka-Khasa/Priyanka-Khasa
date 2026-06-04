@@ -74,21 +74,7 @@ I am a creative developer passionate about building **real-world software produc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
----
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-Khasa&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true&hide_border=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanka-Khasa&theme=github-dark-blue&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-Khasa&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
-
----
 
 ## Flagship Projects
 
