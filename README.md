@@ -141,7 +141,7 @@ I am a creative developer passionate about building **real-world software produc
 - Form correction and posture evaluation
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://ai-fitness-tracker.netlify.app)
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Fitness-app)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)]((https://github.com/Priyanka-Khasa/web-starter-app))
 
 ---
 
