@@ -177,7 +177,11 @@ A MERN travel booking platform with listing discovery, authentication, and an en
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/Priyanka-Khasa" alt="Priyanka's GitHub contribution calendar" />
+  <img src="assets/work-rhythm.svg" alt="Readable contribution rhythm graph" />
+</p>
+
+<p align="center">
+  <sub>Scale is capped at 15/day for readability, so regular 10-15 contribution days stay visible instead of getting flattened by one high spike.</sub>
 </p>
 
 <p align="center">
