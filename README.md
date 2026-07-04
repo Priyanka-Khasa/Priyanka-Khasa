@@ -1,224 +1,219 @@
 <h1 align="center">Priyanka Khasa</h1>
 
 <p align="center">
-  <strong>Full Stack Developer &nbsp;·&nbsp; Android Developer &nbsp;·&nbsp; AI Systems Architect</strong><br>
-  <em>Transforming ideas into intelligent, scalable products and websites</em>
+  <strong>Full Stack Developer · Android Developer · AI/ML Builder</strong><br>
+  <em>I build useful, clean, student-friendly products that turn ideas into working software.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyanka-khasa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Priyanka-Khasa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:priyankakhasa937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://priyanka-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/priyanka-khasa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:priyankakhasa937@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## About
+## About Me
 
-I am a creative developer passionate about building **real-world software products** that make an impact. With expertise spanning **Full Stack Development, Android Innovation, and AI Systems**, I transform complex problems into elegant, user-centric solutions.
+I am focused on building software that feels practical, polished, and genuinely helpful. My work moves across full-stack web apps, Android products, AI-powered interfaces, and student-focused platforms.
 
-- **Currently** — Architecting **ClassConnect**, an AI-powered student collaboration ecosystem
-- **Exploring** — Advanced ML integration, scalable backend systems, and cutting-edge Android patterns
-- **Open to** — Collaborations, open-source contributions, startups, and research partnerships
+- Building: **BPSMV Resource Hub**, **ClassConnect**, and AI-assisted productivity tools
+- Exploring: scalable backends, secure file flows, computer vision, and modern Android patterns
+- Strong at: turning rough ideas into usable products with clear UI, clean architecture, and real workflows
+- Open to: open source, internships, collaborations, product ideas, and research-driven builds
 
 ---
 
-## Tech Stack
+## Tech I Work With
 
-**Frontend & Web**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,mongodb,postgres,kotlin,androidstudio,firebase,python,tensorflow,git,docker,aws" alt="Tech stack" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+| Area | Tools |
+|---|---|
+| Web | React, Next.js, Tailwind CSS, JavaScript, TypeScript |
+| Backend | Node.js, Express.js, MongoDB, PostgreSQL, REST APIs |
+| Android | Kotlin, Jetpack Compose, Firebase, Android Studio |
+| AI/ML | Python, TensorFlow, MediaPipe, OpenAI APIs |
+| Product | UI/UX thinking, authentication, dashboards, protected file flows, deployment |
 
-**Backend & Database**
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+## Featured Projects
 
-**Mobile & Android**
+### BPSMV Hub
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+A full-stack university resource platform for BPSMV students to discover, upload, preview, and discuss academic resources in one clean workspace.
 
-**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+- Subject-wise notes, PDFs, syllabi, links, previous year papers, jobs, and internships
+- Google/email authentication, guest access, personalized dashboard, and admin moderation
+- Protected PDF preview flow that keeps resources inside the app experience
+- Discussion boards, student reviews, career portals, and contribution-friendly resource uploads
 
-**Languages & DevOps**
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/BPSMV-NOTES-)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-
-
-## Flagship Projects
+---
 
 ### ClassConnect
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-**AI-powered student collaboration platform** with real-time chat, groups, and smart productivity features.
+An AI-powered student collaboration app designed for real-time chat, groups, and smarter academic productivity.
 
-- Modern UI built with **Jetpack Compose**
-- **Real-time messaging** and group collaboration
-- **AI-assisted features** for student productivity
-- Scalable architecture with **Firebase** backend
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/ClassConnect)
+- Modern Android UI with Jetpack Compose
+- Real-time student groups and messaging
+- AI-assisted productivity features
+- Firebase-backed architecture for speed and scale
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/ClassConnect)
 
 ---
 
 ### MediCap
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-**Offline-first medicine safety app** for accessible healthcare support in low-connectivity regions.
+An offline-first medicine safety app built for accessible healthcare support in low-connectivity regions.
 
-- **Medicine identification** and guidance system
-- **Privacy-first** — no data transmission required
-- Functions completely **without internet access**
-- Accessible, intuitive interface
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android" />
+</p>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Medicap)
+- Medicine identification and guidance
+- Privacy-first design with no required data transmission
+- Works without internet access
+- Simple interface for quick support
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Medicap)
 
 ---
 
 ### Gestra
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Cutting%20Edge-orange?style=flat-square)
 
-**Next-generation AI interface** enabling seamless, touchless interaction through gestures and voice through your camera; it will automate  your complete  screen.
+A touchless AI interface that uses gestures and voice commands to control screen interactions through the camera.
 
-- **Real-time gesture recognition**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111111?style=flat-square" alt="Computer Vision" />
+</p>
+
+- Real-time gesture recognition
 - Voice command integration
-- **ML-powered interaction** paradigm
-- Advanced computer vision technology
+- Camera-based automation workflow
+- Computer vision powered interaction model
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Gestra)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Gestra)
 
 ---
 
 ### AI Fitness Tracker
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
-**Real-time AI fitness evaluation** with pose detection, rep counting, and voice feedback.
+A real-time fitness evaluation app with pose detection, rep counting, voice feedback, and form guidance.
 
-- **Real-time pose detection** and analysis
-- Accurate **rep counting** system
-- **Voice-guided feedback**
-- Form correction and posture evaluation
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://ai-fitness-tracker.netlify.app)
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)]((https://github.com/Priyanka-Khasa/web-starter-app))
+- Real-time pose detection and exercise analysis
+- Rep counting and form correction
+- Voice-guided feedback
+- Built for an interactive workout experience
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=netlify&logoColor=white)](https://ai-fitness-tracker.netlify.app)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Fitness-app)
 
 ---
 
 ### Wanderlust
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
-**Full-stack MERN travel booking platform** with real-world architecture and a complete booking flow.
+A MERN travel booking platform with listing discovery, authentication, and an end-to-end booking flow.
 
-- Browse and **filter travel listings**
-- **Secure user authentication**
-- End-to-end **booking system**
-- Responsive, modern UI
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://wanderlust-by34.onrender.com/listings)
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Wonderlust)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=render&logoColor=white)](https://wanderlust-by34.onrender.com/listings)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Wonderlust)
 
 ---
 
-### Welfora
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+## More Work
 
-**AI-powered welfare knowledge-sharing platform** for accessible information delivery and public service.
-
-- Structured **knowledge base**
-- **AI-powered content curation**
-- Public service information system
-- Full-stack problem solving
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa/Welfora)
+| Project | What it shows | Links |
+|---|---|---|
+| **Welfora** | AI-powered welfare knowledge-sharing platform | [Repo](https://github.com/Priyanka-Khasa/Welfora) |
+| **MineGPT** | GPT-powered intelligent assistant | [Repo](https://github.com/Priyanka-Khasa/MineGPT) |
+| **Portfolio** | Personal portfolio with polished UI | [Repo](https://github.com/Priyanka-Khasa/Portfolio) · [Live](https://priyanka-portfolio.vercel.app) |
+| **IELTS Pro** | Education-focused landing experience | [Repo](https://github.com/Priyanka-Khasa/Ielts-pro-homepage) · [Live](https://ielts-pro-homepage.vercel.app) |
+| **Gamify** | Gamification platform concept | [Repo](https://github.com/Priyanka-Khasa/gamify) |
+| **Weather Checker** | Voice-enabled weather app | [Repo](https://github.com/Priyanka-Khasa/Weather-Checker) |
+| **Triage Agent** | Agentic workflow and automation experiments | [Repo](https://github.com/Priyanka-Khasa/Triage-Agent) |
 
 ---
 
-## Other Notable Projects
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **MineGPT** | GPT-powered intelligent assistant | JavaScript, OpenAI | [Repo](https://github.com/Priyanka-Khasa/MineGPT) |
-| **Portfolio** | Professional portfolio website | React, CSS | [Repo](https://github.com/Priyanka-Khasa/Portfolio) · [Live](https://priyanka-portfolio.vercel.app) |
-| **IELTS Pro** | Educational platform homepage | JavaScript, React | [Repo](https://github.com/Priyanka-Khasa/Ielts-pro-homepage) · [Live](https://ielts-pro-homepage.vercel.app) |
-| **Gamify** | Gamification platform | CSS, JavaScript | [Repo](https://github.com/Priyanka-Khasa/gamify) |
-| **Weather Checker** | Voice-enabled weather application | JavaScript, APIs | [Repo](https://github.com/Priyanka-Khasa/Weather-Checker) |
-| **Tic Tac Toe** | Interactive web game | JavaScript | [Repo](https://github.com/Priyanka-Khasa/Tic-Tac-Toe) |
-| **Spotify Clone** | UI clone implementation | HTML, CSS | [Repo](https://github.com/Priyanka-Khasa/Spotify-clone1) |
-
----
-
-## Core Competencies
-
-| Area | Description |
-|---|---|
-| **Full Stack Development** | End-to-end product architecture from database to UI |
-| **Mobile Innovation** | Modern Android development with Jetpack Compose |
-| **AI Integration** | ML models, computer vision, and NLP pipelines |
-| **System Design** | Scalable, maintainable, production-grade systems |
-| **UI/UX Focus** | Beautiful, intuitive, user-centric interfaces |
-| **Problem Solving** | Practical solutions to real-world engineering challenges |
-
----
-
-## Let's Collaborate
-
-I am open to **innovative product ideas**, challenging **technical problems**, **open-source contributions**, **AI/ML integration projects**, and mentoring opportunities.
-
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:priyankakhasa937@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-khasa)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanka-Khasa)
-
----
+## GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanka-Khasa&color=0366d6&style=flat-square&label=Profile+Views" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanka-Khasa&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Priyanka's GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanka-Khasa&hide_border=true" alt="Priyanka's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Khasa&theme=github-compact&hide_border=true&area=true" alt="Priyanka's contribution graph" />
+</p>
+
+---
+
+## What I Care About
+
+| Principle | How it appears in my work |
+|---|---|
+| Useful first | I build tools around real student, health, learning, and productivity problems. |
+| Clean experience | I care about flows, empty states, readable screens, and interfaces people can actually use. |
+| Secure by default | Auth, protected resources, privacy-aware data handling, and safer upload paths matter. |
+| Keep learning | Every project pushes me deeper into architecture, AI, Android, and product thinking. |
+
+---
+
+## Let's Build Something
+
+I am open to collaborations, open-source work, internships, product ideas, and AI/ML projects that solve real problems.
+
+<p align="center">
+  <a href="mailto:priyankakhasa937@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://linkedin.com/in/priyanka-khasa">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/Priyanka-Khasa">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanka-Khasa&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
