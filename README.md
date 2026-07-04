@@ -181,10 +181,6 @@ A MERN travel booking platform with listing discovery, authentication, and an en
 </p>
 
 <p align="center">
-  <sub>Scale is capped at 15/day for readability, so regular 10-15 contribution days stay visible instead of getting flattened by one high spike.</sub>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Building%20mode-consistent%20commits-2f81f7?style=flat-square&logo=github" alt="Consistent commits" />
   <img src="https://img.shields.io/badge/Focus-real%20projects-238636?style=flat-square" alt="Real projects" />
   <img src="https://img.shields.io/badge/Current-BPSMV%20Hub-f78166?style=flat-square" alt="Current project BPSMV Hub" />
