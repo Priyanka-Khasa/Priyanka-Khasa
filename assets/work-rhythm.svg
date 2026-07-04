@@ -1,0 +1,67 @@
+<svg width="920" height="300" viewBox="0 0 920 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Recent Contribution Rhythm</title>
+  <desc id="desc">A capped contribution rhythm chart where the visual scale tops at 15 contributions per day so consistent daily work stays visible.</desc>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="70" x2="0" y2="245" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#238636"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="65" x2="0" y2="245" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F78166"/>
+      <stop offset="1" stop-color="#2F81F7"/>
+    </linearGradient>
+    <filter id="soft" x="0" y="0" width="920" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#1F2328" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="918" height="298" rx="18" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <g filter="url(#soft)">
+    <rect x="34" y="28" width="852" height="236" rx="14" fill="#F6F8FA"/>
+  </g>
+
+  <text x="58" y="64" fill="#24292F" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Recent Contribution Rhythm</text>
+  <text x="58" y="91" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="14">Visual scale is capped at 15/day so 10-15 contribution days still look strong.</text>
+
+  <line x1="76" y1="218" x2="850" y2="218" stroke="#D8DEE4" stroke-width="1"/>
+  <line x1="76" y1="174" x2="850" y2="174" stroke="#D8DEE4" stroke-width="1" stroke-dasharray="5 7"/>
+  <line x1="76" y1="130" x2="850" y2="130" stroke="#D8DEE4" stroke-width="1" stroke-dasharray="5 7"/>
+  <line x1="76" y1="86" x2="850" y2="86" stroke="#D8DEE4" stroke-width="1" stroke-dasharray="5 7"/>
+
+  <text x="824" y="82" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">15+</text>
+  <text x="832" y="126" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">10</text>
+  <text x="840" y="170" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">5</text>
+
+  <rect x="95" y="183" width="32" height="35" rx="8" fill="url(#bar)"/>
+  <rect x="151" y="148" width="32" height="70" rx="8" fill="url(#bar)"/>
+  <rect x="207" y="113" width="32" height="105" rx="8" fill="url(#bar)"/>
+  <rect x="263" y="86" width="32" height="132" rx="8" fill="url(#hot)"/>
+  <rect x="319" y="121" width="32" height="97" rx="8" fill="url(#bar)"/>
+  <rect x="375" y="218" width="32" height="0" rx="8" fill="url(#bar)"/>
+  <rect x="431" y="139" width="32" height="79" rx="8" fill="url(#bar)"/>
+  <rect x="487" y="95" width="32" height="123" rx="8" fill="url(#bar)"/>
+  <rect x="543" y="165" width="32" height="53" rx="8" fill="url(#bar)"/>
+  <rect x="599" y="113" width="32" height="105" rx="8" fill="url(#bar)"/>
+  <rect x="655" y="86" width="32" height="132" rx="8" fill="url(#hot)"/>
+  <rect x="711" y="130" width="32" height="88" rx="8" fill="url(#bar)"/>
+
+  <circle cx="279" cy="78" r="5" fill="#F78166"/>
+  <text x="253" y="71" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">70 day capped</text>
+  <circle cx="671" cy="78" r="5" fill="#F78166"/>
+  <text x="648" y="71" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">15+</text>
+
+  <text x="97" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">3</text>
+  <text x="153" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">8</text>
+  <text x="205" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">12</text>
+  <text x="261" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">15+</text>
+  <text x="317" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">11</text>
+  <text x="377" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">0</text>
+  <text x="433" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">9</text>
+  <text x="489" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">14</text>
+  <text x="545" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">6</text>
+  <text x="597" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">12</text>
+  <text x="653" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">15+</text>
+  <text x="709" y="241" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="12">10</text>
+
+  <text x="58" y="282" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="13">Commit rhythm, project updates, README polish, and feature work are shown as a readable work pulse.</text>
+</svg>
