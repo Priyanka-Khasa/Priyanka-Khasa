@@ -177,7 +177,7 @@ A MERN travel booking platform with listing discovery, authentication, and an en
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Khasa&theme=github-compact&hide_border=true&area=true&height=260&radius=8&hide_y_axis=true&days=45&custom_title=Recent%20Contribution%20Rhythm" alt="Priyanka's recent contribution graph" />
+  <img src="https://ghchart.rshah.org/2f81f7/Priyanka-Khasa" alt="Priyanka's GitHub contribution calendar" />
 </p>
 
 <p align="center">
