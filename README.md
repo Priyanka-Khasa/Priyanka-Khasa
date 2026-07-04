@@ -177,7 +177,7 @@ A MERN travel booking platform with listing discovery, authentication, and an en
 ## GitHub Activity
 
 <p align="center">
-  <img src="assets/work-rhythm.svg" alt="Readable contribution rhythm graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Khasa&theme=github-compact&hide_border=true&area=true&height=260&radius=8&hide_y_axis=true&days=45&custom_title=Recent%20Contribution%20Rhythm" alt="Priyanka's recent contribution graph" />
 </p>
 
 <p align="center">
@@ -211,7 +211,7 @@ I am open to collaborations, open-source work, internships, product ideas, and A
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://github.com/Priyanka-Khasa">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
   </a>
 </p>
 
