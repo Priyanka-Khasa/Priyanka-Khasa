@@ -22,6 +22,7 @@
 ## About Me
 
 I am focused on building software that feels practical, polished, and genuinely helpful. My work moves across full-stack web apps, Android products, AI-powered interfaces, and student-focused platforms.
+I LOVE COFFEE.Serve me & I will shurely help 🍵
 
 - Building: **BPSMV Resource Hub**, **ClassConnect**, and AI-assisted productivity tools
 - Exploring: scalable backends, secure file flows, computer vision, and modern Android patterns
