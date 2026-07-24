@@ -201,7 +201,7 @@ A MERN travel booking platform with listing discovery, authentication, and an en
 
 ## Let's Build Something
 
-I am open to collaborations, open-source work, internships, product ideas, and AI/ML projects that solve real problems.
+I am open to collaborations, open-source work, internships, product ideas, and AI/ML projects that solve real problems. COFEE LOVER 
 
 <p align="center">
   <a href="mailto:priyankakhasa937@gmail.com">
